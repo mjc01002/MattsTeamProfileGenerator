@@ -1,20 +1,5 @@
 # Team Profile Generator
 
-</br>
-<p align="center">
-    <img src="https://img.shields.io/github/languages/count/kqarlos/team-profile-generator?style=for-the-badge" alt="Languages" />
-    <img src="https://img.shields.io/github/languages/top/kqarlos/team-profile-generator?style=for-the-badge" alt="Top Language" />
-    <img src="https://img.shields.io/github/languages/code-size/kqarlos/team-profile-generator?style=for-the-badge" alt="Code Size" />
-    <img src="https://img.shields.io/github/repo-size/kqarlos/team-profile-generator?style=for-the-badge" alt="Repo Size" />   
-    <img src="https://img.shields.io/tokei/lines/github/kqarlos/team-profile-generator?style=for-the-badge" alt="Total Lines" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/kqarlos/team-profile-generator/inquirer?style=for-the-badge" alt="Inquirer Version" />
-    <img src="https://img.shields.io/github/last-commit/kqarlos/team-profile-generator?style=for-the-badge" alt="Last Commit" />  
-    <img src="https://img.shields.io/github/issues/kqarlos/team-profile-generator?style=for-the-badge" alt="Issues" />  
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/kqarlos/team-profile-generator?style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/kqarlos?style=social" alt="Followers" />  
-</p>
-
-
 ## Description
 
 Create an HTML profile for your whole developer team by answering questions on the command line.
@@ -123,31 +108,3 @@ nextEmployee() {
 ```
 * This function will return a function that will prompt the user to input information according to the type of employee they've chosen. This function comes with a promise that returns the data collected by _inquirer.prompt()_
 
-## Credits
-
-### Author
-
-- 💼 Carlos Toledo: [portfolio](https://kqarlos.github.io/)
-- :octocat: Github: [kqarlos](https://www.github.com/kqarlos)
-- LinkedIn: [carlos-toledo415](https://www.linkedin.com/in/carlos-toledo415/)
-
-
-### Built With
-
-</br>
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
-    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
-    <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Inquirer-blue?style=for-the-badge" alt="Inquirer" /></a>
-    <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/badge/-Jest-blue?style=for-the-badge" alt="Jest" /></a>
-</p>
-
-## License
-
-</br>
-<p align="center">
-    <img align="center" src="https://img.shields.io/github/license/kqarlos/team-profile-generator?style=for-the-badge" alt="MIT license" />
-</p>
